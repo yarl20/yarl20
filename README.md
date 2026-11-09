@@ -1,30 +1,31 @@
-![Yussef Rodríguez Lapa — Sistemas, Ciberseguridad y Redes](./banner.png)
+<img width="2172" height="724" alt="Banner técnico de sistemas y ciberseguridad" src="https://github.com/user-attachments/assets/1f96423d-3941-4680-8679-292524429958" />
 
-# Hola, soy Yussef Rodríguez Lapa
-[@yarl20](https://github.com/yarl20)
+# Yussef Rodríguez Lapa
 
-Estudio el octavo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP). Vivo en Lima y me interesa desarrollarme en infraestructura TI, soporte técnico y ciberseguridad.
+Estudiante de octavo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP), con experiencia como técnico informático en Colsof. Me interesa desarrollarme en infraestructura TI y soporte técnico, con especial interés en redes y seguridad.
 
-## Experiencia
+Lima, Perú · [@yarl20](https://github.com/yarl20)
 
-Trabajé como técnico informático en Colsof, donde realicé mantenimiento preventivo de equipos, formateo seguro y migración de datos. Esa experiencia me enseñó a preparar equipos con cuidado y a proteger la información durante una migración.
+## Experiencia en TI
 
-## Proyecto destacado
+En Colsof realicé mantenimiento preventivo de equipos informáticos, formateo seguro y migración de datos. Mi trabajo se centró en preparar los equipos y cuidar la información durante el traslado.
+
+## Portafolio técnico
 
 ### OverTheWire Bandit · Writeups de los niveles 0–10
 
-Documento cómo resolví los retos, qué comandos utilicé y cómo verifiqué cada resultado. Los writeups cubren navegación en Linux, búsqueda de archivos, permisos, SSH y procesamiento de texto desde la terminal.
+Documenté los comandos utilizados, el propósito de cada paso y la forma de verificar los resultados. Los ejercicios cubren conexión por SSH, búsqueda de archivos, permisos y procesamiento de texto en Linux.
 
-<!-- Agrega aquí el enlace directo a tu repositorio de Bandit. -->
+### Laboratorios en curso
 
-## Herramientas y conocimientos
+Practico enumeración de servicios y análisis de permisos en entornos de laboratorio con Kali Linux y VirtualBox. Entre los ejercicios que estoy explorando están TryHackMe Anonymous y Kioptrix.
 
-- **Sistemas y virtualización:** Windows, Linux (Kali) y VirtualBox.
-- **Redes y seguridad:** fundamentos de redes, Nmap y SSH. Formación de Cisco Networking Academy en redes, seguridad de terminales, defensa de redes y gestión de amenazas.
-- **Documentación y análisis:** Git, GitHub, Markdown y Excel intermedio.
+## Herramientas y formación
 
-## En qué estoy trabajando
+| Área | Conocimientos y herramientas |
+| --- | --- |
+| Sistemas y virtualización | Windows, Linux (Kali) y VirtualBox |
+| Redes y seguridad | Fundamentos de redes, Nmap y SSH |
+| Documentación y análisis | Git, GitHub, Markdown y Excel intermedio |
 
-Practico enumeración y análisis de permisos en laboratorios como TryHackMe Anonymous y Kioptrix. Mi objetivo es convertir esas prácticas en guías que expliquen el proceso y los resultados de forma reproducible.
-
-<!-- Agrega aquí el enlace a tu LinkedIn si quieres mostrarlo públicamente. -->
+Formación complementaria en Cisco Networking Academy: Introducción a las redes, Seguridad de terminales, Defensa de la red y Administración de amenazas cibernéticas.
