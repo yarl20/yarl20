@@ -2,30 +2,28 @@
 
 # Yussef Rodríguez Lapa
 
-Estudiante de octavo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP), con experiencia como técnico informático en Colsof. Me interesa desarrollarme en infraestructura TI y soporte técnico, con especial interés en redes y seguridad.
+Ciberseguridad ofensiva · Pentesting en laboratorio · Interés en Red Team
+
+Estudio Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP). Practico pentesting en laboratorios de Linux y redes con el objetivo de especializarme en Red Team. En mis writeups documento qué encontré, cómo lo verifiqué y qué aprendí.
 
 Lima, Perú · [@yarl20](https://github.com/yarl20)
 
-## Experiencia en TI
+## Portafolio de ciberseguridad
 
-En Colsof realicé mantenimiento preventivo de equipos informáticos, formateo seguro y migración de datos. Mi trabajo se centró en preparar los equipos y cuidar la información durante el traslado.
-
-## Portafolio técnico
-
-### OverTheWire Bandit · Writeups de los niveles 0–10
-
-Documenté los comandos utilizados, el propósito de cada paso y la forma de verificar los resultados. Los ejercicios cubren conexión por SSH, búsqueda de archivos, permisos y procesamiento de texto en Linux.
-
-### Laboratorios en curso
-
-Practico enumeración de servicios y análisis de permisos en entornos de laboratorio con Kali Linux y VirtualBox. Entre los ejercicios que estoy explorando están TryHackMe Anonymous y Kioptrix.
-
-## Herramientas y formación
-
-| Área | Conocimientos y herramientas |
+| Laboratorio | Qué hice |
 | --- | --- |
-| Sistemas y virtualización | Windows, Linux (Kali) y VirtualBox |
-| Redes y seguridad | Fundamentos de redes, Nmap y SSH |
-| Documentación y análisis | Git, GitHub, Markdown y Excel intermedio |
+| OverTheWire Bandit | Documenté los niveles 0–10. Practiqué conexión por SSH, búsqueda de archivos, revisión de permisos y procesamiento de texto en Linux. |
+| TryHackMe Anonymous | Practiqué enumeración de servicios y revisé cómo los permisos de archivos y los binarios SUID pueden influir en la escalada de privilegios. |
+| Kioptrix | Configuré un laboratorio aislado con Kali Linux y VirtualBox e inicié el reconocimiento de servicios con Nmap. |
 
-Formación complementaria en Cisco Networking Academy: Introducción a las redes, Seguridad de terminales, Defensa de la red y Administración de amenazas cibernéticas.
+## Herramientas
+
+- Linux y redes — Kali Linux, Bash, Nmap y SSH.
+- Pruebas web en laboratorio — Burp Suite y Postman.
+- Virtualización y documentación — VirtualBox, Git, GitHub y Markdown.
+
+## Experiencia y formación
+
+Trabajé como técnico informático en Colsof, donde realicé mantenimiento preventivo de equipos, formateo seguro y migración de datos.
+
+En Cisco Networking Academy completé cursos de Introducción a las Redes, Seguridad de Terminales, Defensa de la Red y Administración de Amenazas Cibernéticas.
